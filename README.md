@@ -1,0 +1,3 @@
+```
+> sh osx-setup.sh
+```
